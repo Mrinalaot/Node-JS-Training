@@ -1,10 +1,10 @@
 --- Generating Fresh Output file ----
-D:\NODE_JS\Session1 - 2\Task1\dir1\dir2\dir2_exercise.txt	-[MD5]-> ff817c7d8f22b9ecebe20cea8306a8f0 -[SHA1]-> 77abee4d840534e0cc8db69532e7cee4ffca71b3
-D:\NODE_JS\Session1 - 2\Task1\dir1\dir3\dir4\file4_1.txt	-[MD5]-> 87d9355b77dbcf02b029139fd77af4bb -[SHA1]-> 8f14cdad1a532db934dd7a2511dbedea695ec159
-D:\NODE_JS\Session1 - 2\Task1\dir1\dir3\dir4\file4_2.py	-[MD5]-> 0ca8eb72d3b0211f0fac5ee4443aa754 -[SHA1]-> 9a9a7f9d50ae82188ddb7249cca3cec68592dd68
-D:\NODE_JS\Session1 - 2\Task1\dir1\dir3\file3_1.txt	-[MD5]-> 87d9355b77dbcf02b029139fd77af4bb -[SHA1]-> 8f14cdad1a532db934dd7a2511dbedea695ec159
-D:\NODE_JS\Session1 - 2\Task1\dir1\dir3\file3_2.py	-[MD5]-> 0ca8eb72d3b0211f0fac5ee4443aa754 -[SHA1]-> 9a9a7f9d50ae82188ddb7249cca3cec68592dd68
-D:\NODE_JS\Session1 - 2\Task1\dir1\dir3\file3_3.js	-[MD5]-> 0881b9a80592c25a7fbbc7fa35292a80 -[SHA1]-> 546a9baceaaa2c8020b44d8a3a5aa4993423851a
-D:\NODE_JS\Session1 - 2\Task1\dir1\file1.txt	-[MD5]-> 87d9355b77dbcf02b029139fd77af4bb -[SHA1]-> 8f14cdad1a532db934dd7a2511dbedea695ec159
-D:\NODE_JS\Session1 - 2\Task1\dir1\file2.py	-[MD5]-> 0ca8eb72d3b0211f0fac5ee4443aa754 -[SHA1]-> 9a9a7f9d50ae82188ddb7249cca3cec68592dd68
-D:\NODE_JS\Session1 - 2\Task1\dir1\file3.js	-[MD5]-> 0881b9a80592c25a7fbbc7fa35292a80 -[SHA1]-> 546a9baceaaa2c8020b44d8a3a5aa4993423851a
+D:\NODE_JS\tasks\Task1\./dir1\dir2\dir2_exercise.txt	-[MD5]-> ff817c7d8f22b9ecebe20cea8306a8f0 -[SHA1]-> 77abee4d840534e0cc8db69532e7cee4ffca71b3
+D:\NODE_JS\tasks\Task1\./dir1\dir3\dir4\file4_1.txt	-[MD5]-> 87d9355b77dbcf02b029139fd77af4bb -[SHA1]-> 8f14cdad1a532db934dd7a2511dbedea695ec159
+D:\NODE_JS\tasks\Task1\./dir1\dir3\dir4\file4_2.py	-[MD5]-> 0ca8eb72d3b0211f0fac5ee4443aa754 -[SHA1]-> 9a9a7f9d50ae82188ddb7249cca3cec68592dd68
+D:\NODE_JS\tasks\Task1\./dir1\dir3\file3_1.txt	-[MD5]-> 87d9355b77dbcf02b029139fd77af4bb -[SHA1]-> 8f14cdad1a532db934dd7a2511dbedea695ec159
+D:\NODE_JS\tasks\Task1\./dir1\dir3\file3_2.py	-[MD5]-> 0ca8eb72d3b0211f0fac5ee4443aa754 -[SHA1]-> 9a9a7f9d50ae82188ddb7249cca3cec68592dd68
+D:\NODE_JS\tasks\Task1\./dir1\dir3\file3_3.js	-[MD5]-> 0881b9a80592c25a7fbbc7fa35292a80 -[SHA1]-> 546a9baceaaa2c8020b44d8a3a5aa4993423851a
+D:\NODE_JS\tasks\Task1\./dir1\file1.txt	-[MD5]-> 87d9355b77dbcf02b029139fd77af4bb -[SHA1]-> 8f14cdad1a532db934dd7a2511dbedea695ec159
+D:\NODE_JS\tasks\Task1\./dir1\file2.py	-[MD5]-> 0ca8eb72d3b0211f0fac5ee4443aa754 -[SHA1]-> 9a9a7f9d50ae82188ddb7249cca3cec68592dd68
+D:\NODE_JS\tasks\Task1\./dir1\file3.js	-[MD5]-> 0881b9a80592c25a7fbbc7fa35292a80 -[SHA1]-> 546a9baceaaa2c8020b44d8a3a5aa4993423851a
