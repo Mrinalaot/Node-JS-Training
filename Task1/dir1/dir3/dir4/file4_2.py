@@ -1,2 +1,0 @@
-* Problem statement: Currently MyAnatomy is used as a coding platform for hiring freshers. It is costly as EPAM need to pay an handsome amount to Third Party Service Provider. 
-* Proposed solution: We can build your own code arena which will be supported many languages. In two ways we can implement this. Either using External API's(Harcker Earth V3 API/ Hacker Rank API) or Running any instance of VM(Virtual Machine) in Cloud
