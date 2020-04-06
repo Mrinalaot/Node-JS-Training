@@ -1,7 +1,9 @@
 ### Create an app which takes a path as param and Reads all files recursively under that path
 ### Also create md5 & sha1 hash of file content
 
-node readFile.js ./dir1
+============================
+node main.js dir result.txt
+============================
 
 1. it accepts a path as argument
 2. validate if a directory is given as input instead of file
