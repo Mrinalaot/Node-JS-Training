@@ -1,10 +1,12 @@
 <!DOCTYPE html>
 <html lang="en">
 
+</html>
+
 <head>
-    <title>EPAM Posts</title>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Profile</title>
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
     <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
     <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.bundle.min.js" integrity="sha384-6khuMg9gaYr5AxOqhkVIODVIvm9ynTT5J4V1cfthmT+emCG6yVmEZsRHdxlotUnm" crossorigin="anonymous"></script>
@@ -13,42 +15,27 @@
 
 <body>
     <nav class="navbar navbar-expand-lg navbar-light bg-light">
-        <a class="navbar-brand" href="#">LOGO</a>
+        <a class="navbar-brand" href="#">Profile</a>
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
-            <span class="navbar-toggler-icon"></span>
+          <span class="navbar-toggler-icon"></span>
         </button>
         <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
             <div class="navbar-nav">
-                <a class="nav-item nav-link active" href="#" id='email'><span class="sr-only">(current)</span></a>
+                <a class="nav-item nav-link active" href="#" id='email'></a>
                 <button class="btn btn-primary" id='signout' onclick="handleSignout()">Signout</button>
             </div>
         </div>
     </nav>
-
-    <div class="containor">
-        <h3>Welcome to Post sharing App</h3>
-        <h3>Developed by Mrinal Kanti Ghosh</h3>
-        <h3>Feel free to Contribute to Open Source!!</h3>
-    </div>
-
-    <div class="row">
-        <div class="col-sm-5">
-            <div class="card">
-                <div class="card-body">
-                    <button class="btn btn-success" id='login-btn' onclick="handleLogin()">Login</button>
-                </div>
-            </div>
+    <main>
+        <div class="form-group">
+            <label for="comment"><h3 style="color:white"><i> Create new post </i></h3> </label>
+            <textarea class="form-control" rows="5" col="20" id="post" placeholder="Write your post here..."></textarea>
+            <button class="btn btn-primary" onclick="createNewPost()">Share</button>
         </div>
-        <div class="col-sm-5">
-            <div class="card">
-                <div class="card-body">
-                    <button class="btn btn-primary" id='profile-btn' onclick="handleProfile()">My Profile</button>
-                </div>
-            </div>
-        </div>
-    </div>
 
-    <script src="./javascripts/index.js"></script>
+        <article id="result"></article>
+    </main>
 </body>
+<script src="javascripts/profile.js"></script>
 
 </html>
